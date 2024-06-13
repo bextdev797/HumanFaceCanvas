@@ -1,2 +1,3 @@
-# HumanFaceCanvas
-This extension is based on Math Principles. (particularly Geometry &amp; Basic Trigeometry) An Extension to Draw Basic Human Faces Sketches
+## HumanFaceCanvas
+
+An App Inventor 2 extension created using Rush.
